@@ -1,8 +1,8 @@
 @extends('layouts.template')
 
-@section ('title')
+@section ('Title')
     Tambah Data Mahasiswa
-@endsection
+
 
 @section('content')
     <section class="page-section portfolio" id="tambah">
